@@ -1,7 +1,7 @@
 ## 技术栈
 
 
-- 编程语言：[TypeScript 4.x](https://www.typescriptlang.org/zh/) + JavaScript
+- 编程语言：[TypeScript 4.x](https://www.typescriptlang.org/zh/) + [JavaScript](https://www.javascript.com/)
 - 构建工具：[Vite 2.x](https://cn.vitejs.dev/guide/)
 - 前端框架：[Vue 3.x](https://www.vue3js.cn/docs/zh/guide/installation.html)
 - 路由工具：[Vue Router 4.x](https://next.router.vuejs.org/zh/guide/#javascript)
