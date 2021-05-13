@@ -10,7 +10,7 @@
 - CSS 预编译：[Sass](https://sass.bootcss.com/documentation)
 - HTTP 工具：[Axios](https://axios-http.com/)
 - 提交规范：[Commitizen](http://commitizen.github.io/cz-cli/) + [Commitlint](https://commitlint.js.org/#/)
-- 格式化工具：[Perttier-Options](https://prettier.io/docs/en/options.html
+- 格式化工具：[Perttier-Options](https://prettier.io/docs/en/options.html)
 
 ## 快速开始
 
